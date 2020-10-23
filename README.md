@@ -1,10 +1,10 @@
 # Music controler with gesture recognition
 
 Music controler that uses gesture recognition and prediction for the commands.
-1.	Peace – play\
-2.	Palm – pause\
-3.	Fist – stop\
-4.	L – volume down\
+1.	Peace – play
+2.	Palm – pause
+3.	Fist – stop
+4.	L – volume down
 5.	Thumbs-up – volume up
 
 
